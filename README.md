@@ -51,7 +51,7 @@ Code: https://github.com/kashif-here/Hotel-management
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css, JavaScript, PHP, MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,JavaScript,PHP,MySQL" />
 
 ---
 
