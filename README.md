@@ -47,9 +47,13 @@ Code: https://github.com/kashif-here/4th-sem-project
 
 Code: https://github.com/kashif-here/Hotel-management
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-Languages: HTML CSS JavaScript PHP MySQL
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css, JavaScript, PHP, MySQL" />
+
+---
 
 ## GitHub Stats
 
