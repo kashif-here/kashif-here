@@ -142,30 +142,19 @@ HTML, CSS, JavaScript, PHP and MySQL.
 Successfully completed 45-hour Professional Training in Python Programming by Broadway Infosys.
 
 The training strengthened my understanding of:
-
-Python fundamentals
-
-Object-Oriented Programming
-
-File Handling
-
-Exception Handling
-
-Database Connectivity
-
-Practical Application Development
+- Python fundamentals
+- Object-Oriented Programming
+- File Handling
+- Exception Handling
+- Database Connectivity
+- Practical Application Development
 
 Currently applying these skills to software development and real-world projects.
 
 ### AI for Everyone
 
 Completed the AI for Everyone training program conducted by Helping Hand for Relief and Development USA/Nepal under the Skills Development and Livelihood Program (SDLP).
-
-Training period: July 25, 2024 to August 28, 2024
-
-<p align="center">
-  <img src="./assets/ai-for-everyone-certificate.png" alt="AI for Everyone Certificate" width="700">
-</p>
+- Training period: July 25, 2024 to August 28, 2024
 
 ---
 
