@@ -137,7 +137,7 @@ HTML, CSS, JavaScript, PHP and MySQL.
 ---
 ## Certifications
 
-### Professional Python Programming Training
+### 1. Professional Python Programming Training
 
 Successfully completed 45-hour Professional Training in <b>Python Programming</b> by <b>Broadway Infosys</b>.
 
@@ -151,7 +151,7 @@ The training strengthened my understanding of:
 
 Currently applying these skills to software development and real-world projects.
 
-### AI for Everyone
+### 2. AI for Everyone
 
 Completed the <b>AI for Everyone</b> training program conducted by Helping Hand for Relief and Development USA/Nepal under the Skills Development and Livelihood Program (SDLP) in <b>Prixa Academy</b>.
 - Training period: July 25, 2024 to August 28, 2024
