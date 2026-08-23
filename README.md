@@ -160,13 +160,10 @@ Completed the AI for Everyone training program conducted by Helping Hand for Rel
 
 ## Currently Learning
 
-Python
-
-Backend Development
-
-Web Development
-
-Software Engineering
+- Python
+- Backend Development
+- Web Development
+- Software Engineering
 
 ---
 
