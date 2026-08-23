@@ -1,76 +1,111 @@
-# GitHub Profile README
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:7dd3fc,100:0f172a\&height=220\&section=header\&text=MD%20Kashif%20Khan\&fontSize=40\&fontColor=ffffff\&animation=twinkling\&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20BCA%20Student\&descAlignY=65)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=220&section=header&text=MD%20Kashif%20Khan&fontSize=40&animation=twinkling&desc=Python%20Developer%20|%20Web%20Developer%20|%20BCA%20Student)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Developer;BCA+Student;Building+Web+Projects;Always+Learning" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Python+Developer;Web+Developer;Building+PHP+Projects;Always+Learning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kashif-here&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/kashif-here?style=for-the-badge&label=FOLLOWERS" />
+</p>
 
-![OpenToWork](https://img.shields.io/badge/Open%20to-Internships-success)
-![Profile Views](https://komarev.com/ghpvc/?username=kashif-here&color=7dd3fc)
-![Followers](https://img.shields.io/github/followers/kashif-here?style=social)
+## About Me
 
-## Who I Am
+Hi, I'm MD Kashif Khan, a BCA student and aspiring Python and Web Developer.
 
-```ts
-const profile = {
-  title: ["Python Developer","Web Developer","BCA Student","Video Editor"],
-  stack: ["HTML","CSS","JavaScript","PHP","MySQL"],
-  launchedProjects: 2,
-  certifications: [],
-  status: "Looking for internships",
-  openTo: "Python, Web Development"
-}
+I enjoy building practical web applications, learning new technologies, and solving real-world problems through code.
+
+Currently, I'm looking for internship opportunities where I can improve my development skills and contribute to real projects.
+
+```javascript
+const kashif = {
+  role: "Python & Web Developer",
+  education: "BCA Student",
+  learning: ["Python", "Web Development", "Software Engineering"],
+  technologies: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  interests: ["Web Development", "Programming", "Video Editing"],
+  status: "Open to Internships"
+};
 ```
+
+## Tech Stack
+
+### Languages & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
 
 ## Featured Projects
 
-### 4th-sem-project
+### 4th Semester Project
 
-![Pin](https://github-readme-stats.vercel.app/api/pin/?username=kashif-here&repo=4th-sem-project&theme=nord)
+[![4th-sem-project](https://github-readme-stats.vercel.app/api/pin/?username=kashif-here\&repo=4th-sem-project\&theme=nord)](https://github.com/kashif-here/4th-sem-project)
 
-|Layer|Technology|
-|---|---|
-|Frontend|HTML, CSS, JavaScript|
-|Backend|PHP|
-|Database|MySQL|
+A web-based academic project developed using:
 
-Code: https://github.com/kashif-here/4th-sem-project
+HTML, CSS, JavaScript, PHP and MySQL.
 
-### Hotel-management
+[View Repository](https://github.com/kashif-here/4th-sem-project)
 
-![Pin](https://github-readme-stats.vercel.app/api/pin/?username=kashif-here&repo=Hotel-management&theme=nord)
+### Hotel Management System
 
-|Layer|Technology|
-|---|---|
-|Frontend|HTML, CSS, JavaScript|
-|Backend|PHP|
-|Database|MySQL|
+[![Hotel-management](https://github-readme-stats.vercel.app/api/pin/?username=kashif-here\&repo=Hotel-management\&theme=nord)](https://github.com/kashif-here/Hotel-management)
 
-Code: https://github.com/kashif-here/Hotel-management
+A web-based hotel management project built with:
 
-### 🛠️ Tech Stack
+HTML, CSS, JavaScript, PHP and MySQL.
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,JavaScript,PHP,MySQL" />
-
----
+[View Repository](https://github.com/kashif-here/Hotel-management)
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kashif-here&show_icons=true&theme=nord)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashif-here&show_icons=true&theme=nord&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-here&layout=compact&theme=nord&hide_border=true" height="170" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-here&layout=compact&theme=nord)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kashif-here&theme=nord&hide_border=true" />
+</p>
 
-![](https://streak-stats.demolab.com?user=kashif-here&theme=nord)
+## GitHub Activity
 
-![](https://github-profile-trophy.vercel.app/?username=kashif-here&no-frame=true&no-bg=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashif-here&theme=nord&hide_border=true" />
+</p>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=kashif-here&theme=nord)
+## Certifications
 
-## Connect
+Professional Training in Project Management
+20-hour training by Broadway Infosys
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/mdkashifkhan0)
+## Connect With Me
 
-Email: imkashifk5@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/mdkashifkhan0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:imkashifk5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer)
+## Currently Looking For
+
+Python Developer Internships
+
+Web Development Internships
+
+Software Development Opportunities
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" />
+</p>
