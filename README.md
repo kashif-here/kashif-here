@@ -188,6 +188,10 @@ Completed the <b>AI for Everyone</b> training program conducted by Helping Hand 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://www.instagram.com/kashifkhan_here">
+<img src="https://img.shields.io/badge/Instagram-Connect-0A66C2?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 <a href="mailto:imkashifk5@gmail.com">
 <img src="https://img.shields.io/badge/Email-imkashifk5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
