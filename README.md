@@ -153,7 +153,7 @@ Currently applying these skills to software development and real-world projects.
 
 ### AI for Everyone
 
-Completed the AI for Everyone training program conducted by Helping Hand for Relief and Development USA/Nepal under the Skills Development and Livelihood Program (SDLP).
+Completed the AI for Everyone training program conducted by Helping Hand for Relief and Development USA/Nepal under the Skills Development and Livelihood Program (SDLP) in <b>Prixa Academy</b>.
 - Training period: July 25, 2024 to August 28, 2024
 
 ---
